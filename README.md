@@ -50,3 +50,6 @@ Default value for selector is `button`, so if you omit it, the first child butto
 ### License
 
 MIT
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/behrang/ext.ux.defaultbuttonplugin/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
